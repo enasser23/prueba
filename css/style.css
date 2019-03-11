@@ -1,0 +1,29 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #fff;
+	font-size: 14px;
+
+}
+header{
+	color: transparent;
+}
+
+#sec-home{
+	padding-top: 90px 0;
+	background-image: url(../img/home-header-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+}
+
+#sec-coaches{
+	background-color: white;
+	color: black
+}
+
+footer{
+	background-color: #272525;
+	color: white
+		
+}
